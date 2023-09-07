@@ -1,5 +1,5 @@
-# SQLALchemy Starter
-Simple SQLALchemy project starter template.
+# SQLAlchemy Starter
+Simple SQLAlchemy project starter template.
 
 Created by [Zack Plauché](https://www.zackplauche.com)
 
